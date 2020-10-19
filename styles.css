@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: #9ab3f5;
+  margin: 50px;
+  text-align: justify;
+}
+h1{
+  text-align: center;
+  padding: 20px;
+}
+.imageDesription{
+
+}
+p{
+
+}
+img{
+  width: 200px;
+  margin: 30px 30px 0 0;
+}
+.outer{
+
+}
+
+
+
+.inner-top{
+ float: left;
+ margin: 0 0 20px 0;
+}
+#description::first-letter{
+  font-size: 300%;
+
+}
+#clear{
+  clear:left;
+}
+#sun{
+  width: 200px;
+  margin: 30px 0 30px 30px;
+}
+
+.mySUN{
+  float: right;
+  margin: 0 0 20px 0;
+}
